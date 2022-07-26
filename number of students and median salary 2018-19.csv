@@ -1,0 +1,64 @@
+﻿Subject area of degree,Skill marker,Median salary,Academic year,Female,Male,Other,Total
+(1) Medicine & dentistry,High skilled,35000,2018/19,27715,19720,25,47460
+(1) Medicine & dentistry,Medium skilled,18500,2018/19,27715,19720,25,47460
+(1) Medicine & dentistry,Low skilled,,2018/19,,,,
+(2) Subjects allied to medicine,High skilled,25000,2018/19,135310,31845,55,167210
+(2) Subjects allied to medicine,Medium skilled,19000,2018/19,135310,31845,55,167210
+(2) Subjects allied to medicine,Low skilled,18000,2018/19,135310,31845,55,167210
+(3) Biological sciences,High skilled,23000,2018/19,104205,61450,90,165745
+(3) Biological sciences,Medium skilled,18500,2018/19,104205,61450,90,165745
+(3) Biological sciences,Low skilled,18000,2018/19,104205,61450,90,165745
+(4) Veterinary science,High skilled,31000,2018/19,4805,1150,0,5955
+(4) Veterinary science,Medium skilled,,2018/19,,,,
+(4) Veterinary science,Low skilled,,2018/19,,,,
+(5) Agriculture & related subjects,High skilled,23500,2018/19,8925,3440,10,12380
+(5) Agriculture & related subjects,Medium skilled,18500,2018/19,8925,3440,10,12380
+(5) Agriculture & related subjects,Low skilled,19000,2018/19,8925,3440,10,12380
+(6) Physical sciences,High skilled,25000,2018/19,28910,37840,40,66790
+(6) Physical sciences,Medium skilled,19500,2018/19,28910,37840,40,66790
+(6) Physical sciences,Low skilled,18000,2018/19,28910,37840,40,66790
+(7) Mathematical sciences,High skilled,28000,2018/19,12315,21120,25,33465
+(7) Mathematical sciences,Medium skilled,20500,2018/19,12315,21120,25,33465
+(7) Mathematical sciences,Low skilled,17000,2018/19,12315,21120,25,33465
+(8) Computer science,High skilled,27000,2018/19,11965,65935,80,77980
+(8) Computer science,Medium skilled,20000,2018/19,11965,65935,80,77980
+(8) Computer science,Low skilled,18000,2018/19,11965,65935,80,77980
+(9) Engineering & technology,High skilled,28000,2018/19,19425,87780,50,107255
+(9) Engineering & technology,Medium skilled,22000,2018/19,19425,87780,50,107255
+(9) Engineering & technology,Low skilled,18000,2018/19,19425,87780,50,107255
+"(A) Architecture, building & planning",High skilled,24000,2018/19,,,,
+"(A) Architecture, building & planning",Medium skilled,20000,2018/19,,,,
+"(A) Architecture, building & planning",Low skilled,18000,2018/19,,,,
+(B) Social studies,High skilled,26000,2018/19,101100,61895,90,163085
+(B) Social studies,Medium skilled,20000,2018/19,101100,61895,90,163085
+(B) Social studies,Low skilled,18000,2018/19,101100,61895,90,163085
+(C) Law,High skilled,22000,2018/19,43160,22245,20,65430
+(C) Law,Medium skilled,19500,2018/19,43160,22245,20,65430
+(C) Law,Low skilled,18000,2018/19,43160,22245,20,65430
+(D) Business & administrative studies,High skilled,25000,2018/19,106995,116410,35,223440
+(D) Business & administrative studies,Medium skilled,20500,2018/19,106995,116410,35,223440
+(D) Business & administrative studies,Low skilled,18000,2018/19,106995,116410,35,223440
+(E) Mass communications & documentation,High skilled,21000,2018/19,21325,16610,40,37975
+(E) Mass communications & documentation,Medium skilled,19500,2018/19,21325,16610,40,37975
+(E) Mass communications & documentation,Low skilled,17000,2018/19,21325,16610,40,37975
+(F) Languages,High skilled,24000,2018/19,50475,18535,75,69085
+(F) Languages,Medium skilled,19500,2018/19,50475,18535,75,69085
+(F) Languages,Low skilled,18000,2018/19,50475,18535,75,69085
+(G) Historical & philosophical studies,High skilled,24500,2018/19,30975,24995,60,56025
+(G) Historical & philosophical studies,Medium skilled,19000,2018/19,30975,24995,60,56025
+(G) Historical & philosophical studies,Low skilled,18000,2018/19,30975,24995,60,56025
+(H) Creative arts & design,High skilled,21000,2018/19,93825,51100,310,145235
+(H) Creative arts & design,Medium skilled,18000,2018/19,93825,51100,310,145235
+(H) Creative arts & design,Low skilled,16000,2018/19,93825,51100,310,145235
+(I) Education,High skilled,24500,2018/19,41350,6125,10,47485
+(I) Education,Medium skilled,18000,2018/19,41350,6125,10,47485
+(I) Education,Low skilled,17000,2018/19,41350,6125,10,47485
+(J) Combined,High skilled,26000,2018/19,2720,1955,0,4675
+(J) Combined,Medium skilled,19000,2018/19,2720,1955,0,4675
+(J) Combined,Low skilled,18000,2018/19,2720,1955,0,4675
+Total - Non-science subject areas,High skilled,24000,2018/19,491925,319875,635,812430
+Total - Non-science subject areas,Medium skilled,19500,2018/19,491925,319875,635,812430
+Total - Non-science subject areas,Low skilled,18000,2018/19,491925,319875,635,812430
+Total - Science subject areas,High skilled,25000,2018/19,365410,348275,390,714075
+Total - Science subject areas,Medium skilled,19000,2018/19,365410,348275,390,714075
+Total - Science subject areas,Low skilled,18000,2018/19,365410,348275,390,714075

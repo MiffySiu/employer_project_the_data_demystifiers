@@ -1,0 +1,97 @@
+﻿Subject area of degree,Skill marker,Median salary,Academic year,Female,Male,Other,Total
+01 Medicine and dentistry,High skilled,34000,2019/20,30205,20115,30,50350
+01 Medicine and dentistry,Medium skilled,20000,2019/20,30205,20115,30,50350
+01 Medicine and dentistry,Low skilled,,2019/20,,,,
+01 Medicine and dentistry,All,34000,2019/20,30205,20115,30,50350
+02 Subjects allied to medicine,High skilled,25000,2019/20,144320,35435,85,179845
+02 Subjects allied to medicine,Medium skilled,20000,2019/20,144320,35435,85,179845
+02 Subjects allied to medicine,Low skilled,18500,2019/20,144320,35435,85,179845
+02 Subjects allied to medicine,All,25000,2019/20,144320,35435,85,179845
+03 Biological and sport sciences,High skilled,25000,2019/20,42445,44645,80,87165
+03 Biological and sport sciences,Medium skilled,19500,2019/20,42445,44645,80,87165
+03 Biological and sport sciences,Low skilled,18500,2019/20,42445,44645,80,87165
+03 Biological and sport sciences,All,23000,2019/20,42445,44645,80,87165
+04 Psychology,High skilled,23000,2019/20,55820,12680,65,68565
+04 Psychology,Medium skilled,19000,2019/20,55820,12680,65,68565
+04 Psychology,Low skilled,18000,2019/20,55820,12680,65,68565
+04 Psychology,All,21500,2019/20,55820,12680,65,68565
+05 Veterinary sciences,High skilled,31000,2019/20,6830,1295,5,8135
+05 Veterinary sciences,Medium skilled,19000,2019/20,6830,1295,5,8135
+05 Veterinary sciences,Low skilled,,2019/20,,,,
+05 Veterinary sciences,All,31000,2019/20,6830,1295,5,8135
+"06 Agriculture, food and related studies",High skilled,25000,2019/20,,,,
+"06 Agriculture, food and related studies",Medium skilled,19500,2019/20,,,,
+"06 Agriculture, food and related studies",Low skilled,20000,2019/20,,,,
+"06 Agriculture, food and related studies",All,23000,2019/20,,,,
+07 Physical sciences,High skilled,26500,2019/20,20745,29965,45,50755
+07 Physical sciences,Medium skilled,20000,2019/20,20745,29965,45,50755
+07 Physical sciences,Low skilled,19000,2019/20,20745,29965,45,50755
+07 Physical sciences,All,25500,2019/20,20745,29965,45,50755
+09 Mathematical sciences,High skilled,28000,2019/20,11985,20830,40,32860
+09 Mathematical sciences,Medium skilled,21000,2019/20,11985,20830,40,32860
+09 Mathematical sciences,Low skilled,19500,2019/20,11985,20830,40,32860
+09 Mathematical sciences,All,27500,2019/20,11985,20830,40,32860
+10 Engineering and technology,High skilled,28000,2019/20,21015,90150,70,111235
+10 Engineering and technology,Medium skilled,23000,2019/20,21015,90150,70,111235
+10 Engineering and technology,Low skilled,20000,2019/20,21015,90150,70,111235
+10 Engineering and technology,All,28000,2019/20,21015,90150,70,111235
+11 Computing,High skilled,27500,2019/20,13910,70790,135,84835
+11 Computing,Medium skilled,20000,2019/20,13910,70790,135,84835
+11 Computing,Low skilled,18000,2019/20,13910,70790,135,84835
+11 Computing,All,26500,2019/20,13910,70790,135,84835
+"13 Architecture, building and planning",High skilled,25000,2019/20,,,,
+"13 Architecture, building and planning",Medium skilled,22000,2019/20,,,,
+"13 Architecture, building and planning",Low skilled,19000,2019/20,,,,
+"13 Architecture, building and planning",All,25000,2019/20,,,,
+"26 Geography, earth and environmental studies (natural sciences)",High skilled,25000,2019/20,8660,6880,10,15550
+"26 Geography, earth and environmental studies (natural sciences)",Medium skilled,20500,2019/20,8660,6880,10,15550
+"26 Geography, earth and environmental studies (natural sciences)",Low skilled,18000,2019/20,8660,6880,10,15550
+"26 Geography, earth and environmental studies (natural sciences)",All,24000,2019/20,8660,6880,10,15550
+15 Social sciences,High skilled,27000,2019/20,113145,61810,120,175075
+15 Social sciences,Medium skilled,20000,2019/20,113145,61810,120,175075
+15 Social sciences,Low skilled,19000,2019/20,113145,61810,120,175075
+15 Social sciences,All,25000,2019/20,113145,61810,120,175075
+16 Law,High skilled,22500,2019/20,49165,26420,25,75615
+16 Law,Medium skilled,20000,2019/20,49165,26420,25,75615
+16 Law,Low skilled,18500,2019/20,49165,26420,25,75615
+16 Law,All,21500,2019/20,49165,26420,25,75615
+17 Business and management,High skilled,25000,2019/20,120895,135925,60,256880
+17 Business and management,Medium skilled,21000,2019/20,120895,135925,60,256880
+17 Business and management,Low skilled,20000,2019/20,120895,135925,60,256880
+17 Business and management,All,24000,2019/20,120895,135925,60,256880
+19 Language and area studies,High skilled,25000,2019/20,50590,18660,150,69400
+19 Language and area studies,Medium skilled,20000,2019/20,50590,18660,150,69400
+19 Language and area studies,Low skilled,18000,2019/20,50590,18660,150,69400
+19 Language and area studies,All,23000,2019/20,50590,18660,150,69400
+"20 Historical, philosophical and religious studies",High skilled,25000,2019/20,,,,
+"20 Historical, philosophical and religious studies",Medium skilled,20000,2019/20,,,,
+"20 Historical, philosophical and religious studies",Low skilled,18000,2019/20,,,,
+"20 Historical, philosophical and religious studies",All,23000,2019/20,,,,
+22 Education and teaching,High skilled,25500,2019/20,35485,5550,15,41050
+22 Education and teaching,Medium skilled,18000,2019/20,35485,5550,15,41050
+22 Education and teaching,Low skilled,18000,2019/20,35485,5550,15,41050
+22 Education and teaching,All,25000,2019/20,35485,5550,15,41050
+23 Combined and general studies,High skilled,25000,2019/20,1785,1300,5,3090
+23 Combined and general studies,Medium skilled,20500,2019/20,1785,1300,5,3090
+23 Combined and general studies,Low skilled,19000,2019/20,1785,1300,5,3090
+23 Combined and general studies,All,25000,2019/20,1785,1300,5,3090
+"24 Media, journalism and communications",High skilled,22000,2019/20,19445,13910,55,33410
+"24 Media, journalism and communications",Medium skilled,20000,2019/20,19445,13910,55,33410
+"24 Media, journalism and communications",Low skilled,18000,2019/20,19445,13910,55,33410
+"24 Media, journalism and communications",All,21000,2019/20,19445,13910,55,33410
+"25 Design, and creative and performing arts",High skilled,22000,2019/20,97340,56410,460,154215
+"25 Design, and creative and performing arts",Medium skilled,19500,2019/20,97340,56410,460,154215
+"25 Design, and creative and performing arts",Low skilled,18000,2019/20,97340,56410,460,154215
+"25 Design, and creative and performing arts",All,20000,2019/20,97340,56410,460,154215
+"26 Geography, earth and environmental studies (social sciences)",High skilled,25000,2019/20,5355,3725,0,9085
+"26 Geography, earth and environmental studies (social sciences)",Medium skilled,22000,2019/20,5355,3725,0,9085
+"26 Geography, earth and environmental studies (social sciences)",Low skilled,18500,2019/20,5355,3725,0,9085
+"26 Geography, earth and environmental studies (social sciences)",All,25000,2019/20,5355,3725,0,9085
+Total - Non-science subject areas,High skilled,25000,2019/20,526380,349915,985,877280
+Total - Non-science subject areas,Medium skilled,20000,2019/20,526380,349915,985,877280
+Total - Non-science subject areas,Low skilled,18500,2019/20,526380,349915,985,877280
+Total - Non-science subject areas,All,23000,2019/20,526380,349915,985,877280
+Total - Science subject areas,High skilled,26000,2019/20,377285,356210,600,734095
+Total - Science subject areas,Medium skilled,20000,2019/20,377285,356210,600,734095
+Total - Science subject areas,Low skilled,19000,2019/20,377285,356210,600,734095
+Total - Science subject areas,All,25000,2019/20,377285,356210,600,734095
